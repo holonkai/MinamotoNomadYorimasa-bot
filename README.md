@@ -1,4 +1,4 @@
 # MinamotoNomadYorimasa-ai
-bot to help sort through elden ring hacks, data sourced from the big R-E-D-D-I-T 
+bot to help sort through elden ring hacks, data sourced from the big R-E-D-D-I-T using reddit app dev
 
 full code so its easy to run in file fullcode.py run in cmd or somthing idk boii

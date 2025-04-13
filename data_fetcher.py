@@ -4,9 +4,9 @@ import re
 def fetch_and_clean_data():
     
     reddit = praw.Reddit(
-        client_id="INzdg_TV7NM6bAcQU-sWRQ",
-        client_secret="luzjBYenx5pTPKlV4lf_vjEM2VBZAw",
-        user_agent="ForumChatBot/1.0 by sobeck1001"
+        client_id= #i shall not disclose
+        client_secret= #i shall not disclose
+        user_agent= #i shall not disclose
     )
 
    

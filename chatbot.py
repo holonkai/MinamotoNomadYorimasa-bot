@@ -6,9 +6,9 @@ from datasets import load_dataset
 
 def fetch_and_clean_data():
     reddit = praw.Reddit(
-    client_id=INzdg_TV7NM6bAcQU-sWRQ
-    client_secret=luzjBYenx5pTPKlV4lf_vjEM2VBZAw
-    user_agent="ForumChatBot/1.0 by sobeck1001
+    client_id=
+    client_secret=
+    user_agent=
     )
     subreddit = reddit.subreddit("UnKnoWnCheaTs")
     with open("elden_ring_cheats_data.txt", "w", encoding="utf-8") as file:

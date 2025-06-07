@@ -10,7 +10,7 @@ def fetch_and_clean_data():
     )
 
    
-    subreddit = reddit.subreddit("UnKnoWnCheaTs") #could change this to whatever depending on what data u want ^^3
+    subreddit = reddit.subreddit("UnKnoWnCheaTs") 
     with open("elden_ring_cheats_data.txt", "w", encoding="utf-8") as file:
         for post in subreddit.hot(limit=10):  
             file.write(post.title + " " + post.selftext + "\n")

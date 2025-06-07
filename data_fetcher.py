@@ -4,9 +4,9 @@ import re
 def fetch_and_clean_data():
     
     reddit = praw.Reddit(
-        client_id= #i shall not disclose
-        client_secret= #i shall not disclose
-        user_agent= #i shall not disclose
+        client_id
+        client_secret
+        user_agent
     )
 
    
